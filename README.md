@@ -74,7 +74,7 @@ Example Features:
 
 The trained classification model achieved reliable performance in predicting potential mental health risk categories based on questionnaire inputs.
 
-(Accuracy: 93%)
+(Accuracy: 99.34%)
 
 ## 📂 **Project Structure**
 
