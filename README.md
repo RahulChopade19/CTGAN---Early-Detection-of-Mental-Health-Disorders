@@ -76,7 +76,8 @@ The trained classification model achieved reliable performance in predicting pot
 
 (Accuracy: 93%)
 
-📂 Project Structure
+## 📂 **Project Structure**
+
 <img width="389" height="350" alt="image" src="https://github.com/user-attachments/assets/fa50def2-1709-4110-af47-4b982c30ef47" />
 
 
