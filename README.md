@@ -1,4 +1,5 @@
-# CTGAN---Early-Detection-of-Mental-Health-Disorders
+# 🧠 **Early Detection of Mental Health Disorders** 
+
 📌 Project Overview
 
 This project aims to develop a machine learning-based system for the early detection of mental health disorders using questionnaire-based data.
@@ -7,91 +8,75 @@ The dataset used in this project was artificially synthesized from structured qu
 
 The primary objective is to build a predictive classification model that identifies potential mental health risk categories at an early stage.
 
-📊 Dataset Information
+## 📊 **Dataset Information**
 
 Type: Artificially Synthesized Dataset
 
 Source: Structured Questionnaire Responses
 
-Total Features: (Mention number)
+Total Features: (28)
 
 Target Variable: Risk Category / Mental Health Condition
 
 Example Features:
+    
++ Stress Level
 
-Stress Level
++ Sleep Duration
+    
++ Mood Stability
 
-Sleep Duration
++ Panic
 
-Mood Stability
+## ⚙️ **Technologies & Tools**
 
-Social Interaction Frequency
++ Python
 
-Work/Academic Pressure
++ Pandas
 
-Lifestyle Habits
++ NumPy
 
-⚙️ Technologies & Tools
++ Scikit-learn
 
-Python
++ Matplotlib
 
-Pandas
++ Seaborn
 
-NumPy
++ Jupyter Notebook
 
-Scikit-learn
+## 🧪 **Methodology**
 
-Matplotlib
+1. Data Collection – Questionnaire-based synthetic data creation
 
-Seaborn
+2. Data Preprocessing – Handling missing values, encoding, normalization
 
-Jupyter Notebook
+3. Exploratory Data Analysis (EDA)
 
-🧪 Methodology
+4. Feature Selection
 
-Data Collection – Questionnaire-based synthetic data creation
+5. Model Training
 
-Data Preprocessing – Handling missing values, encoding, normalization
+6. Logistic Regression
 
-Exploratory Data Analysis (EDA)
+7. Decision Tree
 
-Feature Selection
+8. Random Forest
 
-Model Training
+9. Model Evaluation
 
-Logistic Regression
+10. Accuracy
 
-Decision Tree
+11. Confusion Matrix
 
-Random Forest
+12. Precision, Recall, F1-score
 
-Model Evaluation
-
-Accuracy
-
-Confusion Matrix
-
-Precision, Recall, F1-score
-
-📈 Results
+## 📈 **Results**
 
 The trained classification model achieved reliable performance in predicting potential mental health risk categories based on questionnaire inputs.
 
-(Accuracy: 87%)
+(Accuracy: 93%)
 
 📂 Project Structure
-Early-Detection-Mental-Health/
-│
-├── data/
-│   └── synthetic_dataset.csv
-│
-├── notebooks/
-│   └── model_training.ipynb
-│
-├── src/
-│   ├── preprocessing.py
-│   ├── model.py
-│   └── evaluation.py
-│
-├── requirements.txt
-└── README.md 
+<img width="389" height="350" alt="image" src="https://github.com/user-attachments/assets/fa50def2-1709-4110-af47-4b982c30ef47" />
+
+
